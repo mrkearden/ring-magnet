@@ -1,0 +1,12 @@
+! ----- names for bodies -----
+$ inner_rotated = 1
+$ outer_rotated = 2
+$ air_rotated = 3
+! ----- names for boundaries -----
+$ inner = 1
+$ outer = 2
+$ air = 3
+$ inner_top = 4
+$ outer_top = 5
+$ air_top = 6
+$ outer_rotated_1 = 7

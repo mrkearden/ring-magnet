@@ -1,0 +1,42 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = inner_rotated
+End
+
+Body 2
+  Name = outer_rotated
+End
+
+Body 3
+  Name = air_rotated
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = inner
+End
+
+Boundary Condition 2
+  Name = outer
+End
+
+Boundary Condition 3
+  Name = air
+End
+
+Boundary Condition 4
+  Name = inner_top
+End
+
+Boundary Condition 5
+  Name = outer_top
+End
+
+Boundary Condition 6
+  Name = air_top
+End
+
+Boundary Condition 7
+  Name = outer_rotated_1
+End
+
